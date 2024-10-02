@@ -6,10 +6,10 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Jahir Alexander
+* Ocupación: Estudio en la universidad Escuela Superior Politecnica del litoral y trabaja en Industrial Latina SA
+* Lugar de residencia: Guayaquil-Ecuador
+* Sitio web: En proceso.
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
