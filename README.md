@@ -6,7 +6,7 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: Jahir Alexander
+* Nombre: Jahir Díaz
 * Ocupación: Estudio en la universidad Escuela Superior Politecnica del litoral y trabaja en Industrial Latina SA
 * Lugar de residencia: Guayaquil-Ecuador
 * Sitio web: En proceso.
