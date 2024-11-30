@@ -41,8 +41,11 @@ Algunos de los proyectos en los que he trabajado:
 
 ## ✉️ Contacto
 Ponte en contacto conmigo para hablar sobre tecnología o colaborar en proyectos:
+## ✉️ Contacto
+¡Ponte en contacto conmigo para hablar sobre tecnología o colaborar en proyectos!
 
-- **Correo:** jaaldiaz@espol.edu.ec
-- **LinkedIn:** https://www.linkedin.com/in/jahir-diaz-cedeño-275262332
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahir-diaz-cedeño-275262332)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JDC1907)
+[![Correo](https://img.shields.io/badge/Correo-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaaldiaz@espol.edu.ec)
 
 
