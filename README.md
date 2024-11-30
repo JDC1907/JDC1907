@@ -5,7 +5,7 @@ Soy **Jahir Díaz** y este es mi espacio en la web. Aquí podrás conocer más s
 - **Nombre:** Jahir Díaz Cedeño
 - **Ocupación:** 
   - 🎓 Estudiante en **Escuela Superior Politécnica del Litoral**.
-  - 🏢 Trabajador en **Industrial Latina S.A.**
+  - 🏢 Trabajador en **Industrial Latina S.A.** como técnico en sistema de la compañia.
 - **Residencia:** 📍 Guayaquil, Ecuador
 - **Curriculum:** 📝 https://jdc1907.github.io/Curriculum/
 - **
@@ -36,7 +36,6 @@ Algunos de los proyectos en los que he trabajado:
 - 🧠 **Inteligencia Artificial**: Algoritmos de Machine Learning y Deep Learning.
 - 🎮 **Desarrollo de Videojuegos**: Creación de juegos con **Unity** y **Unreal Engine**.
 - 📊 **Análisis de Datos**: Visualización y análisis usando **Python** y **Power BI**.
-- 🌱 **Proyectos Ecológicos**: Tecnologías sostenibles.
 - 📖 **Lectura**: Ciencia ficción y tecnología.
 
 ## ✉️ Contacto
@@ -44,8 +43,7 @@ Ponte en contacto conmigo para hablar sobre tecnología o colaborar en proyectos
 ## ✉️ Contacto
 ¡Ponte en contacto conmigo para hablar sobre tecnología o colaborar en proyectos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahir-diaz-cedeño-275262332)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JDC1907)
-[![Correo](https://img.shields.io/badge/Correo-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaaldiaz@espol.edu.ec)
-
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40px">](https://www.linkedin.com/in/jahir-diaz-cedeño-275262332)
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40px">](https://github.com/JDC1907)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Correo" width="40px">](mailto:jaaldiaz@espol.edu.ec)
 
