@@ -36,10 +36,8 @@ Algunos de los proyectos en los que he trabajado:
 - 🧠 **Inteligencia Artificial**: Algoritmos de Machine Learning y Deep Learning.
 - 🎮 **Desarrollo de Videojuegos**: Creación de juegos con **Unity** y **Unreal Engine**.
 - 📊 **Análisis de Datos**: Visualización y análisis usando **Python** y **Power BI**.
-- 📖 **Lectura**: Ciencia ficción y tecnología.
+- 📖 **Lectura**: Automoviles y tecnología.
 
-## ✉️ Contacto
-Ponte en contacto conmigo para hablar sobre tecnología o colaborar en proyectos:
 ## ✉️ Contacto
 ¡Ponte en contacto conmigo para hablar sobre tecnología o colaborar en proyectos!
 
